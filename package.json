@@ -48,12 +48,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonathanArroyaveGonzalez/Crud-Angular.git"
+    "url": "https://github.com/crisca9105/ProyectoFinal.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JonathanArroyaveGonzalez/Crud-Angular/issues"
+    "url": "https://github.com/crisca9105/ProyectoFinal.git"
   },
-  "homepage": "https://github.com/JonathanArroyaveGonzalez/Crud-Angular.git#readme"
+  "homepage": "https://github.com/crisca9105/ProyectoFinal.git"
 }
